@@ -357,7 +357,7 @@ hr {
 
 .navigasi, .sosial, .kontak, .waktu-buka {
     flex-basis: auto; 
-    min-width: 230px; 
+    min-width: 128px; 
     margin-bottom: 20px;
 }
 
